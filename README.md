@@ -14,17 +14,17 @@
    * list1
    * list2
    
- ##  url format
+##  url format
  [Github](http://github.com)
  
- ## other format
+## other format
  As follow:
  >this is a list1
  >this is a list2
  
- ## code format
- some code like this
-     def foo:
+## code format
+some code like this
+    def foo:
 	    if not bar;
 		  return true
 
